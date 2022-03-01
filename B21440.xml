@@ -1,0 +1,171 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Motions to this present Parliament, for reforming the Church of England Most taken out of Frenæus Philadelphus.</title>
+            <author>[Du Moulin, Louis].</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B21440</idno>
+            <idno type="STC">Wing D2543A</idno>
+            <idno type="EEBO-CITATION">99827753</idno>
+            <idno type="PROQUEST">99827753</idno>
+            <idno type="VID">207623</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B21440)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 207623)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1924:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Motions to this present Parliament, for reforming the Church of England Most taken out of Frenæus Philadelphus.</title>
+                  <author>[Du Moulin, Louis].</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeare 1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Louis du Moulin by Wing.</note>
+                  <note>Caption title on p. 1 reads: Motions for reforming the Church of England, in this present Parliament.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Identified as Wing D2544 on UMI microfilm "Early English books, 1641-1700" reel 1924:1.</note>
+                  <note>Reproduction of the original in the Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  History --  Early works to 1800.</term>
+               <term>Church and state --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:207623:1"/>
+            <pb facs="tcp:207623:1" rendition="simple:additions"/>
+            <p>MOTIONS TO THIS PRESENT <hi>PARLIAMENT,</hi> FOR REFORMING THE CHURCH OF ENGLAND.</p>
+            <p>Moſt taken out of <hi>Jrenaeus Philadelphus.</hi>
+            </p>
+            <p>Printed in the Yeare 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:207623:2"/>
+            <pb n="1" facs="tcp:207623:2" rendition="simple:additions"/>
+            <head>MOTIONS FOR REFORMING the Church of <hi>England,</hi> in this preſent Parliament.</head>
+            <p n="1">I. <seg rend="decorInit">T</seg>Hat ſince the firſt Reforma<g ref="char:EOLhyphen"/>tion in King <hi>Edwards</hi> dayes, was rather of the Doctrine, then of the Diſcipline, and of the Rites that were palpa<g ref="char:EOLhyphen"/>bly groſſe, which yet were retained, with a purpoſe they ſhould be removed afterwards, and for to unloſe by degrees, the faſt holds to the Romiſh Church: now ſince every Proteſtant is well informed of the change made in Religion, that whatſoever in Reli<g ref="char:EOLhyphen"/>gion is Popiſh, or tending to the diſturbing of the peace of the Church, and maintaining of Hereti<g ref="char:EOLhyphen"/>call doctrines, be redreſſed.</p>
+            <p n="2">II. That in that great worke of Reformation which is of moment and conſequence, far beyond the ſetling of civill affaires, there be appointed by both the Houſes, a Committee or convocation
+<pb n="2" facs="tcp:207623:3"/>and meeting of 40. or 50. Engliſh Divines, men that were not of the late Convocation, and ſuch as be unpartiall, learned, and uncorrupt in their lives and Doctrine, ſuch as D<hi rend="sup">r</hi>. <hi>
+                  <g ref="char:V">Ʋ</g>ſher</hi> Arch. B. of <hi>Ar<g ref="char:EOLhyphen"/>mach,</hi> D<hi rend="sup">r</hi>. <hi>Prideaux,</hi> D<hi rend="sup">r</hi>. <hi>Twiſſe,</hi> and the like, with 10. <hi>Scots</hi> Divines, to which be called 8. <hi>Forrain</hi> Di<g ref="char:EOLhyphen"/>vines of the moſt Learned and famous; ſuch as <hi>Ri<g ref="char:EOLhyphen"/>vetus, Primroſe, Moulin,</hi> and the like, who may treat and agree upon a ſetled platforme of Church-go<g ref="char:EOLhyphen"/>vernment, ſutable to the Monarchy of great <hi>Britain</hi> w<hi rend="sup">ch</hi> ought to be ratified, &amp; enacted by Parliament.</p>
+            <p n="3">III. That the Churches Diſcipline being eſta<g ref="char:EOLhyphen"/>bliſhed, a Nationall <hi>Synod</hi> be convocated, that may frame a Confeſſion of faith, and reforme, if need be, the <hi>Engliſh Liturgie,</hi> that without excep<g ref="char:EOLhyphen"/>tions it be received all over the <hi>Kings Dominions,</hi> to which <hi>Synod</hi> may be called a competent num<g ref="char:EOLhyphen"/>ber of <hi>Forraine</hi> Divines. However, ſince ſo many have been ſo earneſt of late, to be in charity with the Roman Church, that they have beene uncha<g ref="char:EOLhyphen"/>ritable to the Reformed Churches: Let Canons be made in the <hi>Synode,</hi> and an Act of Parliament for union with other Proteſtant Churches in mat<g ref="char:EOLhyphen"/>ter of Doctrine: and all the fire-brands of theſe late innovations in the Church, that have made us a laughing ſtocke to the neighbour Churches, be ſharply cenſured, if not cut off as banes of the Church, eſpecially the firſt raiſers of Altars, ſuch as <hi>Heylin, Pocklington,</hi> and the like.</p>
+            <p n="4">IIII. That the pleaſure of our late Soveraigne <hi>King James</hi> of bleſſed Memory, bee executed, who ſent his Divines to the <hi>Synode</hi> of <hi>Dort,</hi> that
+<pb n="3" facs="tcp:207623:3"/>the Church of <hi>England</hi> afterwards ſhould bee bound by the deciſions made there, and that Ca<g ref="char:EOLhyphen"/>nons be made conformable to the determination of our Divines in that <hi>Synod.</hi>
+            </p>
+            <p n="5">V. That if Biſhops be retained, as it is to bee fear'd, there be no more ſuch diſtance between a Biſhop and an ordinary Miniſter; and that Biſhops be no more c<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lled Lords, and that they be enjoy<g ref="char:EOLhyphen"/>ned to preach diligently, as is the duty of their place and office.</p>
+            <p n="6">VI. That if ſome of them ſit in Parliament, it be upon Wool-S<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cks, and have no more privi<g ref="char:EOLhyphen"/>ledges by their office and places then the Judges, the Lord Keeper and Treaſurer: And that a cer<g ref="char:EOLhyphen"/>taine number of Depu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ies from the Nationall <hi>Sy<g ref="char:EOLhyphen"/>nod,</hi> whether Biſhops o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> other, be aſſiſting both in the higher Houſe and lower Houſe, for delivering their advices upon any clauſes of Acts, that may entrench upon the Churches priviledges, or are contrary to Doctrine or good manners.</p>
+            <p n="7">VII. That the principall defect of our Diſci<g ref="char:EOLhyphen"/>pline, and the ſpring of all errours in Doctrine and practice, which is the want of <hi>Synods,</hi> be mended, and hereafter all Viſitations of Biſhops be <hi>Synods,</hi> as by right they ought to be, and according to the ancient Conſtitution, as it appeareth by the <hi>Syno<g ref="char:EOLhyphen"/>dalls</hi> w<hi rend="sup">ch</hi> Miniſters pay in every Viſitation, and that at <hi>Synods</hi> all Pariſh Miniſters be ſitting and cove<g ref="char:EOLhyphen"/>red, and have their voyce in the diſcuſſing of the affaires of the Dioceſſe, and making orders which may not afterwards be altered by the Biſhop, but onely by the Nationall or Metropoliticall <hi>Synod,</hi>
+               <pb n="4" facs="tcp:207623:4"/>which for the publike Union, is to be kept once every two yeares, neither was ever the Church of late without <hi>Synods,</hi> but in <hi>England.</hi>
+            </p>
+            <p n="8">VIII. That the Biſhop be cenſurable by the <hi>Synod,</hi> whether it be Provinciall of Nationall.</p>
+            <p n="9">IX. That another courſe be taken for maintai<g ref="char:EOLhyphen"/>ning Miniſters and Biſhops, then that of Tythes, which ſtill cauſe ſuits betweene the Miniſter and the Pariſhioners, the Patron and incumbent, keep the Miniſter from his Church, wh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>le he followes ſuits in <hi>London,</hi> and bring the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oly Miniſtry in to obloquy and contempt. Put an honourable competent proportion be appointed for the main<g ref="char:EOLhyphen"/>tenance of each Pariſhes Miniſters by the Pariſhi<g ref="char:EOLhyphen"/>oners, and rated by the Parliament or Synod, and that the diſtinction of Deane, Arch-deacon, Par<g ref="char:EOLhyphen"/>ſon, Curat, Vicar, and Reader be taken away, but let them be coequalls, and more or leſſe in num<g ref="char:EOLhyphen"/>ber in one Pariſh, according to the greatneſſe or wealth of the Pariſh.</p>
+            <p n="10">X. That as Biſhops in height of Juriſdiction and place, by act are to be ſhortned, ſo an act bee made that from henceforth, all ordinary Miniſters, which are too much vilified, ſhall have more re<g ref="char:EOLhyphen"/>ſpect and honour then heretofore was given unto them, and that the Miniſters ſonnes be preferred to the fellowſhips of Colledges.</p>
+            <p n="11">XI. That the power of the Eccleſiaſticall <hi>Keyes,</hi> ſuch as belongs to Biſhops and Miniſters, be reſto<g ref="char:EOLhyphen"/>red unto them, according to the ancient conſtitu<g ref="char:EOLhyphen"/>tions of the Primitive Churches; and that there be no cenſure paſt upon the Clergy or people from
+<pb n="5" facs="tcp:207623:4"/>Synod, Biſhop or Presbyterie, but ſuch as is Spi<g ref="char:EOLhyphen"/>rituall, and that the uſuall penalties of impriſon<g ref="char:EOLhyphen"/>ment and fine be rendered again to the right owner <hi>viz.</hi> to the civill Magiſtrate, and the abuſe of ex<g ref="char:EOLhyphen"/>communication, and the Oath <hi>Ex officio</hi> abo<g ref="char:EOLhyphen"/>liſhed.</p>
+            <p n="12">XII. That the Clergie of the Dioceſſe ſhall chooſe their owne Biſhops, or preſent to the Kings Majeſty two, who may chooſe of them whom he pleaſeth: and that every Pariſh be Patron of its Pariſh, and have the preſentation of as many Mi<g ref="char:EOLhyphen"/>niſters, as the Flocke requireth, to the Synod or Biſhop.</p>
+            <p n="13">XIII. That inſtead of Chancellors, Officers, Apparitours, Regiſters, and ſuch like Graſhop<g ref="char:EOLhyphen"/>pers, there be ſome Lay-elders, that may ſit in Provinciall Synods, and have their voyce in mat<g ref="char:EOLhyphen"/>ters of Diſcipline and Church-governement, and that in Nationall Synods, there be ſome Lay-men likewiſe appointed by the Parliament.</p>
+            <p n="14">XIV. That a better courſe be taken for provi<g ref="char:EOLhyphen"/>ding for the poore, and that both Miniſters and Chiefe of the Pariſh ſhall over-ſee, how Church, Wardens doe diſpoſe of the Church-Treaſury, and that they be not permitted under crime of Sa<g ref="char:EOLhyphen"/>criledge to ſpend it upon themſelves, and that e<g ref="char:EOLhyphen"/>very month they give an account of whatſoever is received and laid out.</p>
+            <p n="15">XV. That the griping of Church-duties and buriall-coſts, exacted oftner more rigorouſly of the poore then the rich, be reſtrained, and that the Miniſter be content with his yearely Salary, per<g ref="char:EOLhyphen"/>forming
+<pb n="6" facs="tcp:207623:5"/>all the branches of his calling, as bapti<g ref="char:EOLhyphen"/>zing, burying, viſiting the ſicke without any fur<g ref="char:EOLhyphen"/>ther recompence, but ſuch at is tendered to him.</p>
+            <p n="16">XVI. That hereafter none becited by the Sy<g ref="char:EOLhyphen"/>nod, Presbitery, or Spirituall court without the knowledge of the Pariſh-Miniſter, who ought to preſent the delinquent, and have his voyce in the cenſure.</p>
+            <p n="17">XVII. That it be no more in the power of Bi<g ref="char:EOLhyphen"/>ſhops to impoſe what they pleaſe upon the Clergy with ſuch rigorous penalties, as they have lately uſed for the oath of the ſixth Canon.</p>
+            <p n="18">XVIII. That the Fountains of Learning, <hi>Cam<g ref="char:EOLhyphen"/>bridge</hi> and <hi>Oxford,</hi> be purged from ſuperſtitious Rites and Popiſh doctrines, and Orthodoxe Rea<g ref="char:EOLhyphen"/>ders be provided.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:207623:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
